@@ -2,6 +2,6 @@
 
 <p align='center'><i> repositório para estudar golanguinho ⋆˚౨ৎ ⋆.˚ </i>
 
-<p align="right"><img src="gopherdrink.png" width=15%></p>
+<p align="left"><img src="gopher.png" width=10%></p>
 
 ---
